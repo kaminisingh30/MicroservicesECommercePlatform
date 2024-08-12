@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/OrderService/obj/Debug/net8.0
+/PaymentService/obj/Debug/net8.0
+/ProductService/obj/Debug/net8.0
+/UserService/obj/Debug/net8.0
