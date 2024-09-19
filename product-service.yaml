@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: product-service
-        image: kaminisingh30/product-service:latest
+        image: user-name/product-service:latest
         ports:
         - containerPort: 80
 ---
