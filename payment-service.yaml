@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: payment-service
-        image: kaminisingh30/payment-service:latest
+        image: user-name/payment-service:latest
         ports:
         - containerPort: 80
 ---
