@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: order-service
-        image: kaminisingh30/order-service:latest
+        image: user-name/order-service:latest
         ports:
         - containerPort: 80
 ---
