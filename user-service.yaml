@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: user-service
-        image: kaminisingh30/user-service:latest
+        image: user-name/user-service:latest
         ports:
         - containerPort: 80
 ---
